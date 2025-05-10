@@ -788,8 +788,11 @@ section,
   margin: auto;
 }
 
-.about .about-me p {
+
+}about .about-me p {
   font-size: 18px;
+  text-align: justify;
+  justify-content: center;
 }
 
 /*--------------------------------------------------------------
